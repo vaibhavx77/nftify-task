@@ -15,7 +15,7 @@ body{
     max-width: 1520px;
     margin: 0 auto;
     display: flex;
-    background-image: url("public/bg.png");
+    background-image: url("/bg.png");
     background-size:100% 100%;
     background-position: center;
     background-repeat: no-repeat;
