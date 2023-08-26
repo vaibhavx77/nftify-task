@@ -1,0 +1,38 @@
+.search input{
+    border-radius: 20px;
+border: 1px solid #FFF;
+background: linear-gradient(132deg, rgba(124, 15, 53, 0.20) 0%, rgba(88, 18, 102, 0.20) 100%);
+min-width: 400px;
+color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+padding: 10px 21px;
+}
+.search{
+    margin: 27px 65px;
+    
+}
+.connectBtn button{
+border-radius: 20px;
+background: linear-gradient(131deg, #7C0F35 0%, #581266 100%);
+border: none;
+padding: 14px 43px;
+color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+
+
+
+}
+.connectBtn{
+    margin: 24px 44px;
+    
+}
+

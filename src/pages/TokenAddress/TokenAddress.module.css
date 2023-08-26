@@ -1,0 +1,33 @@
+.mainHead{
+    max-width: calc(100vw - 288px);;
+    display: flex;
+    justify-content: space-between;
+      align-items: center;
+      
+  }
+
+.result{
+  color: var(--cultured-grey, #F7F9F9);
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px; /* 116.667% */
+margin-bottom: 20px;
+margin-left: 24px;
+}
+.data{
+  margin: 30px ;
+}
+.cards{
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+
+ 
+
+

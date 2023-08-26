@@ -1,0 +1,26 @@
+.logoName{
+    color: rgba(255, 255, 255, 0.70);
+font-family: Pacifico;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: flex;
+align-items: center;
+gap: 10px;
+}
+.sideItems{
+    display: flex;
+    flex-direction: column;
+
+}
+.menuItems{
+    align-items: center;
+}
+.logo{
+    margin: 16px;
+    color: rgba(255, 255, 255, 0.70);
+    
+    margin: 12px;
+    padding: 0 16px;
+}
